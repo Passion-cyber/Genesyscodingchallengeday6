@@ -57,6 +57,12 @@ a{
     color: var(--white-bg);
     font-family: "poppins", sans-serif;
 }
+.fa-bigg{
+    font-size: 40px;
+    font-weight: 600;
+    color: var(--black-bg);
+    font-family: "poppins", sans-serif;
+}
 
 
 /* Cores Styling */
@@ -206,5 +212,5 @@ a{
 
 .button{
     position: absolute;
-    top: 400px;
+    top: 450px;
 }
