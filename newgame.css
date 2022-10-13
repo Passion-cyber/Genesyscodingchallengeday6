@@ -1,0 +1,20 @@
+.x-mark-icon .fifth{
+    position: absolute;
+    top: 120px;
+    left: 0px;
+    color: var(--white-bg);
+}
+
+.irons{
+    height: 200px;
+    width: 5px;
+    border-radius: 10px;
+    background-color: var(--white-bg);
+ }
+
+.empty-div-icon .fav{
+    transform: rotate(45deg);
+    position: relative;
+    top: -53px;
+    left: 70px;
+}
